@@ -1,0 +1,26 @@
+{
+	"name": "Zombie-doctor",
+	"description": "Zombie-doctor is one zombie from the СØSMO ƵOMBIE collection.Lives in medical facilities.puts a lot of experience.",
+	"image": "ipfs://bafkreibkr6f4zhgrysahfiwa4l3ntsqhyg3ceu2ngqbnj5dmpkc2obbkdy",
+	"edition": 1,
+	"symbol": "ZMBCOIN",  
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-doctor.png",
+				"type": "image/png" 
+			} 
+		], 
+		"attributes": [
+            { "trait_type": "Base", "value": "Scientist" },      
+            { "trait_type": "Clother", "value": "Doctor's coat,medical mask" },      
+            { "trait_type": "Profession","value": "Doctor" }
+        ]
+		
+	}, 
+}

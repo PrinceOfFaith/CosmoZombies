@@ -1,0 +1,25 @@
+{
+	"name": "Zombie-nurse",
+	"description": "Zombie-nurse is one zombie from the СØSMO ƵOMBIE collection.First cares for the victim. And then he mercilessly eats it.",
+	"image": "ipfs://bafkreifjcp4nkij6cn4egvvwmlxtuxlfaq4qrocpvedzy5j552hedjfxc4",
+	"edition": 1,
+	"symbol": "ZMBCOIN",  
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-nurse.png",
+				"type": "image/png" 
+			} 
+		], 
+		 "attributes": [
+            { "trait_type": "Base", "value": "Tracker" },      
+            { "trait_type": "Clother", "value": "Nurse's medical gown, syringe" },      
+            { "trait_type": "Profession","value": "Nurce" }
+        ]
+	}, 
+}

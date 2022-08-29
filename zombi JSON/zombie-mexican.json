@@ -1,0 +1,26 @@
+{
+	"name": "Zombie-Mexican",
+	"description": "Zombie-Mexican is one zombie from the СØSMO ƵOMBIE collection.Drink tequila with you and then eat your brains. ",
+	"image": "ipfs://bafkreieym3t4xmbh7mrlb4lder3qlgsbh5qjyscvhrvo6kw46ovbjarqle",
+	"edition": 1,
+	"symbol": "ZMBCOIN", 
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-Mexican.png",
+				"type": "image/png" 
+			} 
+		], 
+		"attributes": [
+            { "trait_type": "Base", "value": "Tequila lover" },      
+            { "trait_type": "Clother", "value": "pancho, hat" },      
+            { "trait_type": "Profession","value": "Mexican" }
+        ]
+	}
+	},  
+}

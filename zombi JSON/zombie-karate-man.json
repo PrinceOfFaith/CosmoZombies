@@ -1,0 +1,26 @@
+{
+	"name": "Zombie-karate-man",
+	"description": "Zombie-karate-man is one zombie from the СØSMO ƵOMBIE collection.Masterfully owns a special kick. Will wring your neck.",
+	"image": "ipfs://bafkreifzx3suuesnwrwfk4rmgcw5qtp2fqik2scaaquuqyxonw2dfkyvlq",
+	"edition": 1,
+	"symbol": "ZMBCOIN", 
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-karate-man.png",
+				"type": "image/png" 
+			} 
+		], 
+		"attributes": [
+            { "trait_type": "Base", "value": "Fighter" },      
+            { "trait_type": "Clother", "value": "Kimono" },      
+            { "trait_type": "Profession","value": "Martial arts athlete" }
+        ]
+		
+	}, 
+}

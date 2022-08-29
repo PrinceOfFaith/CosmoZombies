@@ -1,0 +1,26 @@
+{
+	"name": "Zombie-Princess-Leia",
+	"description": "Zombie-Rocker is one zombie from the СØSMO ƵOMBIE collection.Fights for the rights of all zombies in the universe.National hero.",
+	"image": "ipfs://bafkreiamgnejbvdbe5ydpfrclea7zmhgzi366p3wxilimqzlmekyzofoye",
+	"edition": 1,
+	"symbol": "ZMBCOIN",  
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-Princess-Leia.png",
+				"type": "image/png" 
+			} 
+		], 
+		
+        "attributes": [
+            { "trait_type": "Base", "value": "Fighter for justice" },      
+            { "trait_type": "Clother", "value": "Ceremonial dress" },      
+            { "trait_type": "Profession","value": "Princess" }
+        ]
+	},  
+}

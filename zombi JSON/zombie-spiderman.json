@@ -1,0 +1,26 @@
+{
+	"name": "Zombie-Spiderman",
+	"description": "Zombie-Spiderman is one zombie from the СØSMO ƵOMBIE collection.Catches everyone in his web. It spins into a cocoon, only then it will eat your brains.",
+	"image": "ipfs://bafkreihz673ugosup472rrtfpbhsx6rkikasajiqbuam47y2hnvccyga6q",
+	"edition": 1,
+	"symbol": "ZMBCOIN", 
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-Spiderman.png",
+				"type": "image/png" 
+			} 
+		], 
+		"attributes": [
+            { "trait_type": "Base", "value": "Superhero" },      
+            { "trait_type": "Clothes", "value": "spiderman costume" },
+            { "trait_type": "Super abilities", "value": "spider sense" },			
+            { "trait_type": "Profession","value": "Superhero" }
+        ]
+	}, 
+}

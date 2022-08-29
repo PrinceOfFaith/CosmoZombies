@@ -1,0 +1,25 @@
+{
+	"name": "Zombie-disco",
+	"description": "Zombie-disco is one zombie from the СØSMO ƵOMBIE collection.Will dance you to death.",
+	"image": "ipfs://bafkreidkzgxqzunb63rhi5f37tkgcza666mqxkqbmkms4bsj7twdswx54i",
+	"edition": 1, 
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-disco.png",
+				"type": "image/png" 
+			} 
+		], 
+		"attributes": [
+            { "trait_type": "Base", "value": "Dancer" },      
+            { "trait_type": "Clother", "value": "Disco costume" },      
+            { "trait_type": "Profession","value": "Dance teacher" }
+        ]
+
+	}, 
+}

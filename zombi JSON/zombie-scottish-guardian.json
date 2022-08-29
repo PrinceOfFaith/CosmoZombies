@@ -1,0 +1,26 @@
+{
+	"name": "Zombie-Scottish-Guardsman",
+	"description": "Zombie-Scottish-Guardsman is one zombie from the СØSMO ƵOMBIE collection.guards any palace he sees. You won't be able to get past it.",
+	"image": "ipfs://bafybeifqgwm7f2iuhgooa6vb35guhihgnoojrufeohk34wuwebdkgeea2u",
+	"edition": 1,
+	"symbol": "ZMBCOIN",  
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-Scottish-Guardsman.png",
+				"type": "image/png" 
+			} 
+		], 
+		"attributes": [
+            { "trait_type": "Base", "value": "Fighter" },      
+            { "trait_type": "Clother", "value": "scottish guards uniform" },      
+            { "trait_type": "Profession","value": "Elite soldier" }
+        ]
+		
+	},  
+}

@@ -1,0 +1,25 @@
+{
+	"name": "Zombie-456",
+	"description": "Zombie-456 is one zombie from the СØSMO ƵOMBIE collection.This zombie won the 'Squid game'."
+	"image": "ipfs://bafkreif4ipy5olfarfsb2a5bfanmha3lave7ejrffdoc4cu6zggcl6pqeu",
+	"edition": 1,
+	"symbol": "ZMBCOIN", 
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-456.png",
+				"type": "image/png" 
+			} 
+		], 
+		"attributes": [
+            { "trait_type": "Base", "value": "Gamer" },      
+            { "trait_type": "Clother", "value": "Sport suit" },      
+            { "trait_type": "Profession","value": "unemployed" }
+        ]
+	}
+}

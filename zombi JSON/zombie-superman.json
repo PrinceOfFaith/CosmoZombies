@@ -1,0 +1,26 @@
+{
+	"name": "Zombie-Superman",
+	"description": "Zombie-Superman is one zombie from the СØSMO ƵOMBIE collection.He is strong, unrealistic. Only kryptonite will help.",
+	"image": "ipfs://bafkreidlgsivijh4am4ya4iqnp7a3tkaklpodhr6sg6qtro7kcliiytkuq",
+	"edition": 1,
+	"symbol": "ZMBCOIN",  
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-Superman.png",
+				"type": "image/png" 
+			} 
+		], 
+		"attributes": [
+            { "trait_type": "Base", "value": "Superhero" },      
+            { "trait_type": "Clothes", "value": "Kryptonian suit" },
+            { "trait_type": "Super abilities", "value": "super speed, laser eyes" }, 			
+            { "trait_type": "Profession","value": "Superhero" }
+        ]
+	},  
+}

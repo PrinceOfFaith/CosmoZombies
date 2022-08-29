@@ -1,0 +1,25 @@
+{
+	"name": "Zombie-businessman",
+	"description": "Zombie-businessman is one zombie from the СØSMO ƵOMBIE collection.Runs after any ideas that can bring money.",
+	"image": "ipfs://bafkreichika7t2flg4kyzar4kuz7v5brexcjn6vjmgqdwk7c6gwd6p5rcy",
+	"edition": 1,
+	"symbol": "ZMBCOIN", 
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-businessman.png",
+				"type": "image/png" 
+			} 
+		], 
+		"attributes": [
+            { "trait_type": "Base", "value": "Businessman" },      
+            { "trait_type": "Clother", "value": "Black business suit, suitcase with money." },      
+            { "trait_type": "Profession","value": "Businessman" }
+        ]
+	}, 
+}

@@ -1,0 +1,25 @@
+{
+	"name": "Zombie-Jack-Sparrow",
+	"description": "Zombie-Jack-Sparrow is one zombie from the СØSMO ƵOMBIE collection. Will find you anywhere in the sea on his 'Black pearl",
+	"image": "ipfs://bafkreidmfryqumjg4u7srlbwp6qpfiz3rlhhxnaryisaswbtexobecgvby",
+	"edition": 1,
+	"symbol": "ZMBCOIN",  
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-Jack-Sparrow.png",
+				"type": "image/png" 
+			} 
+		], 
+		"attributes": [
+            { "trait_type": "Base", "value": "Pirate" },      
+            { "trait_type": "Clother", "value": "Pirate clothes" },      
+            { "trait_type": "Profession","value": "Pirate" }
+        ]
+	}, 
+}

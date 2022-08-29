@@ -1,0 +1,26 @@
+{
+	"name": "Zombie-racer",
+	"description": "Zombie-racer is one zombie from the СØSMO ƵOMBIE collection. Will catch you on the track at any time.",
+	"image": "ipfs://bafkreidlcqqyaxzk5wg65zidyksktcmypuayackg4bb3nditdbp3hpgney",
+	"edition": 1,
+	"symbol": "ZMBCOIN",  
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-racer.png",
+				"type": "image/png" 
+			} 
+		], 
+		"attributes": [
+            { "trait_type": "Base", "value": "Spidster" },      
+            { "trait_type": "Clother", "value": "Sports racer suit" },      
+            { "trait_type": "Profession","value": "Racer" }
+        ]
+		
+	}, 
+}

@@ -1,0 +1,26 @@
+{
+	"name": "Zombie-boxer",
+	"description": "Zombie-boxer is one zombie from the СØSMO ƵOMBIE collection.This zombie will beat you up like a chop,before eating you.",
+	"image": "ipfs://bafkreiekclhpywxjotyt3eililtdnlxf3uennln7qwcse7vv4r46rerukm",
+	"edition": 1,
+	"symbol": "ZMBCOIN",  
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-boxer.png",
+				"type": "image/png" 
+			} 
+		], 
+		"attributes": [
+            { "trait_type": "Base", "value": "Boxer" },      
+            { "trait_type": "Clother", "value": "Red-T-shirt,Short,boxing-gloves" },      
+            { "trait_type": "Profession","value": "Sportsman" }
+			
+		]
+	}, 
+}

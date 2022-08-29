@@ -1,0 +1,25 @@
+{
+	"name": "Zombie-Gordon-Freeman",
+	"description": "Zombie-Gordon-Freeman is one zombie from the СØSMO ƵOMBIE collection.The smartest zombie in the series. Knows everything about your brains and makes experiments.",
+	"image": "ipfs://bafybeihr5s4j7n7ndiq25iu4huq33eb5jdelrp6bkelnybl7fnagyjyvaa",
+	"edition": 1,
+	"symbol": "ZMBCOIN",  
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-Gordon-Freeman.png",
+				"type": "image/png" 
+			} 
+		], 
+		"attributes": [
+            { "trait_type": "Base", "value": "Scientist" },      
+            { "trait_type": "Clothes", "value": "orange protective suit H.E.V." },      
+            { "trait_type": "Profession","value": "Scientist" }
+        ]
+	},  
+}

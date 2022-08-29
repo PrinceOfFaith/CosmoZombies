@@ -1,0 +1,25 @@
+{
+	"name": "Zombie-painter",
+	"description": "Zombie-painter is one zombie from the СØSMO ƵOMBIE collection.Wants to draw your portrait, and then eats you.",
+	"image": "ipfs://bafkreihvgh3of3tug2revlsf2nu7gfgoy6ct4rsewb63zeefhaus2ps7ea",
+	"edition": 1,
+	"symbol": "ZMBCOIN", 
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-painter.png",
+				"type": "image/png" 
+			} 
+		], 
+		"attributes": [
+            { "trait_type": "Base", "value": "Painter" },      
+            { "trait_type": "Clothes", "value": "blue T-shirt, red beret" },			
+            { "trait_type": "Profession","value": "Painter" }
+        ]
+	},  
+}

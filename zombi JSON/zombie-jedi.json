@@ -1,0 +1,27 @@
+{
+	"name": "Zombie-Jedi",
+	"description": "Zombie-Jedi is one zombie from the СØSMO ƵOMBIE collection.His lightsaber will cut through anything, including your brains, sith",
+	"image": "ipfs://bafkreigr6uxh37uj5rromm3g3bnmsyyhrocjnn4bdfuz3e7ggtkdp4xdwm",
+	"edition": 1,
+	"symbol": "ZMBCOIN",  
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-Jedi.png",
+				"type": "image/png" 
+			} 
+		], 
+		"attributes": [
+            { "trait_type": "Base", "value": "Fighter" },      
+            { "trait_type": "Clother", "value": "jedi tunic" },
+            { "trait_type": "Super abilities", "value": "lightsaber" }, 			
+            { "trait_type": "Profession","value": "Jedi" }
+        ]
+		
+	}, 
+}

@@ -1,0 +1,25 @@
+{
+	"name": "Zombie-tourist",
+	"description": "Zombie-tourist is one zombie from the СØSMO ƵOMBIE collection.Likes to hide in sights. There he will attack his prey.",
+	"image": "ipfs://bafkreiepicvtvu7ytgqxfqplw6jkpazhat77pvyk4fjawqqcsmbjs6rxh4",
+	"edition": 1,
+	"symbol": "ZMBCOIN", 
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-tourist.png",
+				"type": "image/png" 
+			} 
+		], 
+		"attributes": [
+            { "trait_type": "Base", "value": "Waiter" },      
+            { "trait_type": "Clothes", "value": "beach shorts, shirt and camera" },      
+            { "trait_type": "Profession","value": "Tourist" }
+        ]
+	},  
+}

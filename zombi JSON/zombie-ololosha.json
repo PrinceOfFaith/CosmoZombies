@@ -1,0 +1,25 @@
+{
+	"name": "Zombie-ololosha",
+	"description": "Zombie-ololosha is one zombie from the СØSMO ƵOMBIE collection.You don't even think that he can eat you.",
+	"image": "ipfs://bafkreihc56gmpupzztbqme5337z7yi6sg2f46pyjvwojlhtsssuxzmnggy",
+	"edition": 1,
+	"symbol": "ZMBCOIN",  
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-ololosha.png",
+				"type": "image/png" 
+			} 
+		], 
+		"attributes": [
+            { "trait_type": "Base", "value": "boy down" },      
+            { "trait_type": "Clother", "value": "children's shorts, propeller cap, suspenders" },      
+            { "trait_type": "Profession","value": "Overgrown child" }
+        ]
+	}, 
+}

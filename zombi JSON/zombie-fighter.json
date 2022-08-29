@@ -1,0 +1,29 @@
+
+{
+	"name": "zombie-fighter",
+	"description": "Zombie Fighter is one zombie from the СØSMO ƵOMBIE collection. A tough wrestler from high mountains who easily defeats his opponents.",
+	"image": "ipfs://QmYMLyfPWzLWJnEGBYSnsAf8UzdoZ2rRh9UBVmrD89SDMt/1.png",
+	"edition": 1,
+	"symbol": "ZMBCOIN", 
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "zombie-fighter.png",
+				"type": "image/png" 
+			} 
+		], 
+	
+		"attributes": [
+            { "trait_type": "Base", "value": "Fighter" },      
+            { "trait_type": "Hair", "value": "Black" },      
+            { "trait_type": "Profession","value": "Sambist" }
+        ]
+
+	}
+	
+}

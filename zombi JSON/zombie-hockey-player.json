@@ -1,0 +1,26 @@
+{
+	"name": "Zombie-hockey-player",
+	"description": "Zombie-hockey-player is one zombie from the СØSMO ƵOMBIE collection.Lives only on ice. Escape won't work.",
+	"image": "ipfs://bafybeidbxictyngin3laedtklxoxnkbvd4bt246ylgjkx6xiodjnm45v5m",
+	"edition": 1,
+	"symbol": "ZMBCOIN",  
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-hockey-player.png",
+				"type": "image/png" 
+			} 
+		], 
+		"attributes": [
+            { "trait_type": "Base", "value": "Aggressive player" },      
+            { "trait_type": "Clothes", "value": "Hockey uniform" },
+            { "trait_type": "Super abilities", "value": "hockey stick" },			
+            { "trait_type": "Profession","value": "Sportsman" }
+        ]
+	},  
+}

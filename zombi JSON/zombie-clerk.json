@@ -1,0 +1,25 @@
+{
+	"name": "Zombie-clerk",
+	"description": "Zombie-clerk is one zombie from the СØSMO ƵOMBIE collection.He torments you first with office conversations, and then he attacks. He lives in large office centers.",
+	"image": "ipfs://bafkreiajgmakqpus7lo2brnf4eo4xizev7vhkzrajsbmxfcfurzoteqrfm",
+	"edition": 1,
+	"symbol": "ZMBCOIN",  
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-clerk.png",
+				"type": "image/png" 
+			} 
+		], 
+		"attributes": [
+            { "trait_type": "Base", "value": "Office worker" },      
+            { "trait_type": "Clother", "value": "white shirt, black trousers, glastuk, suitcase" },      
+            { "trait_type": "Profession","value": "Clerk" }
+        ]
+	},  
+}

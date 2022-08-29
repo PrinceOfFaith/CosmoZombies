@@ -1,0 +1,28 @@
+{
+	"name": "zombie-rap",
+	"description": "Zombie-rap is one zombie from the СØSMO ƵOMBIE collection. This zombie is known all over the world as the richest hip hop artist ey.",
+	"image": "ipfs://QmYMLyfPWzLWJnEGBYSnsAf8UzdoZ2rRh9UBVmrD89SDMt/1.png",
+	"edition": 1,
+	"symbol": "ZMBCOIN", 
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "zombie-rap.png",
+				"type": "image/png" 
+			} 
+		], 
+	
+		"attributes": [
+            { "trait_type": "Base", "value": "rap" },      
+            { "trait_type": "Hair", "value": "cap" },      
+            { "trait_type": "Profession","value": "hip-hop" }
+        ]
+
+	}
+	
+}

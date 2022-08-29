@@ -1,0 +1,26 @@
+{
+	"name": "Zombie-basketball-player",
+	"description": "Zombie-basketball-player is one zombie from the СØSMO ƵOMBIE collection.This zombie will throw the severed head away. Likes to play with his prey",
+	"image": "ipfs://bafkreibv7zo7oeveclcoajcfulmxk5oqvkkxzwlgc5bsax23ashkyecvve",
+	"edition": 1,
+	"symbol": "ZMBCOIN", 
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-basketball-player.png",
+				"type": "image/png" 
+			} 
+		], 
+		"attributes": [
+            { "trait_type": "Base", "value": "Basketball-player" },      
+            { "trait_type": "Clother", "value": "basketball-jersey,basketball shorts" },      
+            { "trait_type": "Profession","value": "Sportsman" }
+        ]
+		
+	},  
+}

@@ -1,0 +1,26 @@
+{
+	"name": "Zombie-Scot",
+	"description": "Zombie-Scot is one zombie from the СØSMO ƵOMBIE collection.If you hear bagpipes in the distance, expect trouble.",
+	"image": "ipfs://bafkreidtxjioiywwohy7zgei3qsguzakeqy6jw6hbnpwtooklnfycnuqti",
+	"edition": 1,
+	"symbol": "ZMBCOIN",  
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-Scot.png",
+				"type": "image/png" 
+			} 
+		], 
+		"attributes": [
+            { "trait_type": "Base", "value": "Scot" },      
+            { "trait_type": "Clothes", "value": "Scottish national costume" },
+            { "trait_type": "Super abilities", "value": "bagpipes" },			
+            { "trait_type": "Profession","value": "Scot" }
+        ]
+	}, 
+}

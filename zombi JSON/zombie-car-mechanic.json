@@ -1,0 +1,26 @@
+{
+	"name": "Zombie-car-mechanic",
+	"description": "Zombie-car-mechanic is one zombie from the СØSMO ƵOMBIE collection.Complete his car and catch up with you. Lives in auto services.",
+	"image": "ipfs://bafkreib2mdm5j6zpsufe7yd4yh36he6d6qutdownbaonsn5zawxzrjllqm",
+	"edition": 1,
+	"symbol": "ZMBCOIN",  
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-car-mechanic.png",
+				"type": "image/png" 
+			} 
+		], 
+		 "attributes": [
+            { "trait_type": "Base", "value": "Mechanic" },      
+            { "trait_type": "Clother", "value": "auto mechanic work suit" },
+            { "trait_type": "Super abilities", "value": "skillfully throws wrenches" },			
+            { "trait_type": "Profession","value": "Mechanic" }
+        ]
+	}, 
+}

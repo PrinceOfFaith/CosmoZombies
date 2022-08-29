@@ -1,0 +1,25 @@
+{
+	"name": "Zombie-fatman",
+	"description": "Zombie-fatman is one zombie from the СØSMO ƵOMBIE collection.He is so lazy that he is too lazy to run after you to devour you. Lives at home.",
+	"image": "ipfs://bafkreifdu6s5trtpkubjwvhpre62zd5swxepe366fnrttbqhmq47b6cdri",
+	"edition": 1,
+	"symbol": "ZMBCOIN",  
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-fatman.png",
+				"type": "image/png" 
+			} 
+		], 
+		"attributes": [
+            { "trait_type": "Base", "value": "Fat and lazy man" },      
+            { "trait_type": "Clothes", "value": "greasy T-shirt, stretched jeans" },      
+            { "trait_type": "Profession","value": "Householder" }
+        ]
+	},  
+}

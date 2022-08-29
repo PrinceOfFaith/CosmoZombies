@@ -1,0 +1,26 @@
+{
+	"name": "Zombie-Holy-father",
+	"description": "Zombie-Holy-father is one zombie from the СØSMO ƵOMBIE collection.Sanctify you, your brain, and then eat you.",
+	"image": "ipfs://bafkreifpwftl3eapuzrhqmyfv3b3urxlxyw72o6nfjnaxxtzgvbkfe2bie",
+	"edition": 1,
+	"symbol": "ZMBCOIN", 
+	"seller_fee_basis_points": 500, 
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-Holy-father.png",
+				"type": "image/png" 
+			} 
+		], 
+		"attributes": [
+            { "trait_type": "Base", "value": "Holy Fighter" },      
+            { "trait_type": "Clother", "value": "Robe of the holy father" },      
+            { "trait_type": "Profession","value": "Holy-father" }
+        ]
+	},  
+}

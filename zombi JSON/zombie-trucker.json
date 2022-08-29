@@ -1,0 +1,26 @@
+{
+	"name": "Zombie-trucker",
+	"description": "",
+	"image": "ipfs://bafkreigkohtthg7t57i5rjdwnyahthnaa6tasr2v4jt4l2dqu77baffalm",
+	"edition": 1,
+	"symbol": "ZMBCOIN", 
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-trucker.png",
+				"type": "image/png" 
+			} 
+		], 
+		"attributes": [
+            { "trait_type": "Base", "value": "Spidster" },      
+            { "trait_type": "Clother", "value": "Plaid vest, cap, jeans" },      
+            { "trait_type": "Profession","value": "Trucker" }
+        ]
+		
+	}, 
+}

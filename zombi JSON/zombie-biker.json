@@ -1,0 +1,27 @@
+{
+	"name": "Zombie-biker",
+	"description": "Zombie-biker is one zombie from the СØSMO ƵOMBIE collection.This zombie can ride a motorcycle. Likes to chase the victim around the track.",
+	"image": "ipfs://bafkreie6w4rm5j47l6l4md4ccblvvpvm3cl3qsacscvjw3lilgdevr7244",
+	"edition": 1,
+	"symbol": "ZMBCOIN",  
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-biker.png",
+				"type": "image/png" 
+			} 
+		], 
+		"attributes": [
+            { "trait_type": "Base", "value": "Biker" },      
+            { "trait_type": "Clother", "value": "leather-vest" },
+            { "trait_type": "headdress", "value": "bandana" },			
+            { "trait_type": "Profession","value": "unemployed" }
+        ]
+		
+	}, 
+}

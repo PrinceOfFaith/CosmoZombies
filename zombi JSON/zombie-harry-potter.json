@@ -1,0 +1,26 @@
+{
+	"name": "Zombie-Harry-Potter",
+	"description": "Zombie-Harry-Potter is one zombie from the СØSMO ƵOMBIE collection.Looking for his opponent Voldemort. If you're like him, you won't do well.",
+	"image": "ipfs://bafkreigibg5hu5bojhuhbrfzqoh67vk5jodyaeh2o27orlzqlvytkyhfsq",
+	"edition": 1,
+	"symbol": "ZMBCOIN", 
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-Harry-Potter.png",
+				"type": "image/png" 
+			} 
+		], 
+		"attributes": [
+            { "trait_type": "Base", "value": "Magic Fighter" },      
+            { "trait_type": "Clother", "value": "Gryffindor Robe" },
+            { "trait_type": "Super abilities", "value": "Magic wand" },			
+            { "trait_type": "Profession","value": "Wizard" }
+        ]
+	},  
+}

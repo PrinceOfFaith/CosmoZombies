@@ -1,0 +1,25 @@
+{
+	"name": "Zombie-Marilyn-Monroe",
+	"description": "Zombie-Marilyn-Monroe is one zombie from the СØSMO ƵOMBIE collection.Lose your vigilance from her beauty and you will be eaten.",
+	"image": "ipfs://bafkreidhbntzbrs5pnsr5syavtqnpvsud6l4ywd3fkb5ulajunaltg3bva",
+	"edition": 1,
+	"symbol": "ZMBCOIN", 
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-Marilyn-Monroe.png",
+				"type": "image/png" 
+			} 
+		], 
+		"attributes": [
+            { "trait_type": "Base", "value": "Singer" },      
+            { "trait_type": "Clother", "value": "Dazzling dress" },      
+            { "trait_type": "Profession","value": "Actress" }
+        ]
+	},  
+}

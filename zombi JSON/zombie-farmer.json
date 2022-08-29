@@ -1,0 +1,25 @@
+{
+	"name": "Zombie-farmer",
+	"description": "Zombie-farmer is one zombie from the СØSMO ƵOMBIE collection.Lives on a ranch. There he catches lost travelers.",
+	"image": "ipfs://bafkreigj7ythnzktgvr5b7jbaxu7uouhklejcd3uhzhmwanywrycabguei",
+	"edition": 1,
+	"symbol": "ZMBCOIN",  
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-farmer.png",
+				"type": "image/png" 
+			} 
+		], 
+		"attributes": [
+            { "trait_type": "Base", "value": "Not very aggressive" },      
+            { "trait_type": "Clothes", "value": "denim jumpsuit, straw hat" },      
+            { "trait_type": "Profession","value": "Farmer" }
+        ]
+	},  
+}

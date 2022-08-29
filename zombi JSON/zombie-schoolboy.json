@@ -1,0 +1,25 @@
+{
+	"name": "Zombie-schoolboy",
+	"description": "Zombie-schoolboy is one zombie from the СØSMO ƵOMBIE collection.the student knows nothing. But he loves brains.",
+	"image": "ipfs://bafkreidqqpgjbimcskqdtvikdl3bhbk26qthcahqwnp4v3lo7dbmwgmsx4",
+	"edition": 1,
+	"symbol": "ZMBCOIN",  
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-schoolboy.png",
+				"type": "image/png" 
+			} 
+		], 
+		"attributes": [
+            { "trait_type": "Base", "value": "Schoolboy" },      
+            { "trait_type": "Clother", "value": "shorts, shirt, bow tie" },      
+            { "trait_type": "Profession","value": "Schoolboy" }
+        ]
+	}, 
+}

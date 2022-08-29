@@ -1,0 +1,27 @@
+{
+	"name": "Zombie-wizard",
+	"description": "Zombie-wizard is one zombie from the СØSMO ƵOMBIE collection.Zombie-wizard lives in his tower. Punishes anyone who tries to get to him.",
+	"image": "ipfs://bafkreigmd5fv34idl6izj2gc4qvume2bjr5mctngxabmvfcz5xverft4ie",
+	"edition": 1,
+	"symbol": "ZMBCOIN",  
+	"external_url": "", 
+	"collection": { 
+		"name": "СØSMO ƵOMBIE", 
+		"family": "" 
+	}, 
+	"properties": {
+		"files": [ 
+			{ 
+				"uri": "Zombie-wizard.png",
+				"type": "image/png" 
+			} 
+		], 
+		"attributes": [
+            { "trait_type": "Base", "value": "Magical" },      
+            { "trait_type": "Clother", "value": "Wizard robe" },   
+            { "trait_type": "Super abilities", "value": "Magic spells" },      			
+            { "trait_type": "Profession","value": "Wizard" }
+        ]
+
+	},  
+}
