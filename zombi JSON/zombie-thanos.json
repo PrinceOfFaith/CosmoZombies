@@ -1,26 +1,29 @@
 {
 	"name": "Zombie-Thanos",
 	"description": "Zombie-Thanos is one zombie from the СØSMO ƵOMBIE collection.He is ready to destroy the entire universe for the sake of balance.",
-	"image": "ipfs://bafybeifyxj4p5jayc4rryzm3x5tdkbqo7boxe3kn3wovb3nxncdxoerbf4",
-	"edition": 1,
-	"symbol": "ZMBCOIN",  
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-Thanos.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "Fighter villain" },      
-            { "trait_type": "Clothes", "value": "Armor of Thanos" },
-            { "trait_type": "Super abilities", "value": "Infinity gauntlet" },			
-            { "trait_type": "Profession","value": "The villain" }
-        ]
-	},  
-}
+	"image": "https://bafybeifyxj4p5jayc4rryzm3x5tdkbqo7boxe3kn3wovb3nxncdxoerbf4.ipfs.nftstorage.link/",
+	"edition": 38,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "green"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "the villain"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "white"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "aggressive"
+	  },
+	  {
+		"name": "Clothes",
+		"type": "String", "value": "Thanos' Armor"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }

@@ -1,25 +1,30 @@
 {
+	
 	"name": "Zombie-Neo",
 	"description": "Zombie-Neo is one zombie from the СØSMO ƵOMBIE collection.Will take you into the matrix - you are a corpse.",
-	"image": "ipfs://bafkreiftn2hn5n6xqku2nmzfilg4jmfiyiy2igypjafg6ne325rmu25hla",
-	"edition": 1,
-	"symbol": "ZMBCOIN",  
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-Neo.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "Matrix fighter" },      
-            { "trait_type": "Clother", "value": "Black leather coat, black glasses" },      
-            { "trait_type": "Profession","value": "Superhero" }
-        ]
-	},  
-}
+	"image": "https://bafkreiftn2hn5n6xqku2nmzfilg4jmfiyiy2igypjafg6ne325rmu25hla.ipfs.nftstorage.link/",
+	"edition": 56,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "green"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "Neo"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "black glasses"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "sullen"
+	  },
+	  {
+		"name": "Clothes",
+		"type": "String", "value": "Black hair"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }

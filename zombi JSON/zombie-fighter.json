@@ -1,29 +1,31 @@
 
 {
-	"name": "zombie-fighter",
+	"name": "Zombie-fighter",
 	"description": "Zombie Fighter is one zombie from the СØSMO ƵOMBIE collection. A tough wrestler from high mountains who easily defeats his opponents.",
-	"image": "ipfs://QmYMLyfPWzLWJnEGBYSnsAf8UzdoZ2rRh9UBVmrD89SDMt/1.png",
-	"edition": 1,
-	"symbol": "ZMBCOIN", 
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "zombie-fighter.png",
-				"type": "image/png" 
-			} 
-		], 
-	
-		"attributes": [
-            { "trait_type": "Base", "value": "Fighter" },      
-            { "trait_type": "Hair", "value": "Black" },      
-            { "trait_type": "Profession","value": "Sambist" }
-        ]
+	"image": "https://QmYMLyfPWzLWJnEGBYSnsAf8UzdoZ2rRh9UBVmrD89SDMt.ipfs.nftstorage.link/",
+	"edition": 22,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "green"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "Master SAMBO"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "evil"
+	  },
+	  {
+		"name": "Clothes",
+		"type": "String", "value": "blue tights"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }
 
-	}
-	
-}

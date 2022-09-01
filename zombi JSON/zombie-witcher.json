@@ -1,27 +1,30 @@
 {
 	"name": "Zombie-Witcher",
 	"description": "Zombie-Witcher is one zombie from the СØSMO ƵOMBIE collection.This zombie will attack you if a demon has settled in you.",
-	"image": "ipfs://bafkreianljnps6pbkd6ikopd5sgqhdzvznd6cckm5zyx6va36cz2janftm/Zombie-Witcher.png",
-	"edition": 1,
-	"symbol": "ZMBCOIN", 
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-Witcher.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "Witcher" },      
-            { "trait_type": "Clother", "value": "witcher-leather-outfit" },
-            { "trait_type": "Super-abilities", "value": "witcher-potion" }, 			
-            { "trait_type": "Profession","value": "fight-against-evil" }
-        ]
-		
-	},  
-}
+	"image": "https://bafkreianljnps6pbkd6ikopd5sgqhdzvznd6cckm5zyx6va36cz2janftm.ipfs.nftstorage.link/",
+	"edition": 41,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "fighter against evil"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "aggressive"
+	  },
+	  {
+		"name": "Clothes",
+		"type": "String", "value": "witcher leather suit"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }
+	

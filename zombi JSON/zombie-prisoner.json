@@ -1,0 +1,27 @@
+{
+	"name": "Zombie-prisoner"
+	"description": "Zombie-Rocker is one zombie from the СØSMO ƵOMBIE collection.Sits in dark cells, you accidentally come in and get caught by him.",
+	"image": "https://bafkreih3eeqyvy6knklg7vkuxpol3bmpz3e6o6cdvdy3uvsiwidd4wgr6y.ipfs.nftstorage.link/",
+	"edition": 23,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "brown"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "Scammer"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "evil"
+	  },
+	  {
+		"name": "Clothes",
+		"type": "String", "value": "striped shape"
+	  }
+}

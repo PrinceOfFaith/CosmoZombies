@@ -1,25 +1,29 @@
 {
 	"name": "Zombie-fatman",
 	"description": "Zombie-fatman is one zombie from the СØSMO ƵOMBIE collection.He is so lazy that he is too lazy to run after you to devour you. Lives at home.",
-	"image": "ipfs://bafkreifdu6s5trtpkubjwvhpre62zd5swxepe366fnrttbqhmq47b6cdri",
-	"edition": 1,
-	"symbol": "ZMBCOIN",  
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-fatman.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "Fat and lazy man" },      
-            { "trait_type": "Clothes", "value": "greasy T-shirt, stretched jeans" },      
-            { "trait_type": "Profession","value": "Householder" }
-        ]
-	},  
-}
+	"image": "https://bafkreifdu6s5trtpkubjwvhpre62zd5swxepe366fnrttbqhmq47b6cdri.ipfs.nftstorage.link/",
+	"edition": 21,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "brown"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "Householder"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "unfriendly"
+	  },
+	  {
+		"name": "T-shirt",
+		"type": "String", "value": "White t-shirt"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }

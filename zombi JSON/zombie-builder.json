@@ -1,25 +1,29 @@
 {
 	"name": "Zombie-builder",
 	"description": "Zombie-builder is one zombie from the СØSMO ƵOMBIE collection.Builds traps for his victims. Very experienced. Lives in any area.",
-	"image": "ipfs://bafkreibcgzeklwi4h57zf422xamgq5puk2zynsdvbusp3377xh7swk5eg4",
-	"edition": 1,
-	"symbol": "ZMBCOIN",  
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-builder.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "Lurking predator" },      
-            { "trait_type": "Clother", "value": "construction work clothes, helmet" },      
-            { "trait_type": "Profession","value": "Builder" }
-        ]
-	},  
-}
+	"image": "https://bafkreibcgzeklwi4h57zf422xamgq5puk2zynsdvbusp3377xh7swk5eg4.ipfs.nftstorage.link/",
+	"edition": 8,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "rifle-green"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "Builder"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "Wise"
+	  },
+	  {
+		"name": "Hat",
+		"type": "String", "value": "builder's helmet"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }

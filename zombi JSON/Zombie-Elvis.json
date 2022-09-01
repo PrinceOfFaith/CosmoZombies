@@ -1,29 +1,29 @@
-
- {
+{
 	"name": "Zombie-Elvis",
 	"description": "Zombie Elvis is one zombie from the СØSMO ƵOMBIE collection. This is the most famous rock and roll musician. Millions of fans in the Zombie world.",
-	"image": "ipfs://QmYMLyfPWzLWJnEGBYSnsAf8UzdoZ2rRh9UBVmrD89SDMt/1.png",
-	"edition": 1,
-	"symbol": "ZMBCOIN", 
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-Elvis.png",
-				"type": "image/png" 
-			} 
-		], 
-	
-		"attributes": [
-            { "trait_type": "Base", "value": "Musician" },      
-            { "trait_type": "Hair", "value": "Black" },      
-            { "trait_type": "Profession","value": "King of rock" }
-        ]
-
-	}
-	
-}
+	"image": "https://QmYMLyfPWzLWJnEGBYSnsAf8UzdoZ2rRh9UBVmrD89SDMt.ipfs.nftstorage.link/",
+	"edition": 18,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "grey"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "singer"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "Confident"
+	  },
+	  {
+		"name": "Hat",
+		"type": "String", "value": "rockabilly"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }

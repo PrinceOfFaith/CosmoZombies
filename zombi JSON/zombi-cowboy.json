@@ -1,25 +1,29 @@
 {
 	"name": "Zombie-cowboy",
 	"description": "Zombie-cowboy is one zombie from the СØSMO ƵOMBIE collection.Don't go out alone with him.Immediately there will be a funeral shot for you",
-	"image": "ipfs://bafkreibu4dcknhqig7mvd3ipmh2i3ccvzifgvw3mvu4lsp2tlvpii5aaxu",
+	"image": "https://bafkreibu4dcknhqig7mvd3ipmh2i3ccvzifgvw3mvu4lsp2tlvpii5aaxu.ipfs.nftstorage.link/",
 	"edition": 1,
-	"symbol": "ZMBCOIN",  
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-cowboy.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "Fighter" },      
-            { "trait_type": "Clother", "value": "Cowboy boots, hat and vest" },      
-            { "trait_type": "Profession","value": "Cowboy" }
-        ]
-	} 
-}
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "red"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "Cowboy"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "Rye"
+	  },
+	  {
+		"name": "Hat",
+		"type": "String", "value": "stetson"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }

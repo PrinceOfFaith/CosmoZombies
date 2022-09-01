@@ -1,26 +1,30 @@
 {
+	
 	"name": "Zombie-housemaid",
 	"description": "Zombie-housemaid is one zombie from the СØSMO ƵOMBIE collection.If you have a speck of dust on you, you won't do well.",
-	"image": "ipfs://bafkreig4zpybpmbrborihcjiiuihdqyqmlmsqkswqfktaxcephems7xqhq",
-	"edition": 1,
-	"symbol": "ZMBCOIN",  
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-housemaid.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "domestic worker" },      
-            { "trait_type": "Clother", "value": "Maid costume" },      
-            { "trait_type": "Profession","value": "Housemaid" }
-        ]
-		
-	}, 
-}
+	"image": "https://bafkreig4zpybpmbrborihcjiiuihdqyqmlmsqkswqfktaxcephems7xqhq.ipfs.nftstorage.link/",
+	"edition": 48,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "turquoise"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "housemaid"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "calm"
+	  },
+	  {
+		"name": "Clothes",
+		"type": "String", "value": "maid's cap"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }

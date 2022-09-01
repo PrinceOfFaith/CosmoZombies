@@ -1,25 +1,29 @@
 {
 	"name": "Zombie-astronaut",
 	"description": "Zombie-astronaut is one zombie from the СØSMO ƵOMBIE collection.will fly after you even into space. For tasty brains.",
-	"image": "ipfs://bafkreidmxy4qhqybazzgz4vmunjeyket75arhvvkxzlevzucqcajw4lccq",
-	"edition": 1,
-	"symbol": "ZMBCOIN", 
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-astronaut.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "Researcher" },      
-            { "trait_type": "Clother", "value": "Space suit" },      
-            { "trait_type": "Profession","value": "Austronaut" }
-        ]
-	},  
-}
+	"image": "https://bafkreidmxy4qhqybazzgz4vmunjeyket75arhvvkxzlevzucqcajw4lccq.ipfs.nftstorage.link/",
+	"edition": 3,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "pink"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "Astronaut"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "serious"
+	  },
+	  {
+		"name": "Hat",
+		"type": "String", "value": "suit"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }

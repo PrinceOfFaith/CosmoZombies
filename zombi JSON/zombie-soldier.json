@@ -1,26 +1,30 @@
 {
 	"name": "Zombie-soldier",
 	"description": "Zombie-soldier is one zombie from the СØSMO ƵOMBIE collection.This zombie considers everyone an enemy.Better not get in his way.",
-	"image": "ipfs://bafkreifmuprss4fi7vyveohl23d4iu6y2dwl7gd6bv46j4gjkgyiew6jgm",
-	"edition": 1,
-	"symbol": "ZMBCOIN",  
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-soldier.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "Soldier" },      
-            { "trait_type": "Clother", "value": "Khaki-military-suit" },      
-            { "trait_type": "Profession","value": "War-veteran" }
-        ]
-		
-	}, 
-}
+	"image": "https://bafkreifmuprss4fi7vyveohl23d4iu6y2dwl7gd6bv46j4gjkgyiew6jgm.ipfs.nftstorage.link/",
+	"edition": 34,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "blue"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "military"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "white"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "embittered"
+	  },
+	  {
+		"name": "Clothes",
+		"type": "String", "value": "military uniform"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }
+	

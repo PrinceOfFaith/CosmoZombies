@@ -1,27 +1,29 @@
 {
 	"name": "Zombie-Captan-America",
 	"description": "Zombie-Captan-America is one zombie from the СØSMO ƵOMBIE collection.Fighting the injustice of his credo. Run from him if you're the bad guy.",
-	"image": "ipfs://bafkreicypzojqzehj7ctbjlt7uxv3cojmksmipp574xa3mc5nflflnt7jq",
-	"edition": 1,
-	"symbol": "ZMBCOIN",  
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-Captan-America.png",
-				"type": "image/png" 
-			} 
-		], 
-		 "attributes": [
-            { "trait_type": "Base", "value": "Superhero" },      
-            { "trait_type": "Clother", "value": "Iroquois" },
-            { "trait_type": "Super abilities", "value": "adamantium shield" },			
-			{ "trait_type": "Profession","value": "Superhero" }
-        ]
-
-	},  
-}
+	"image": "https://bafkreicypzojqzehj7ctbjlt7uxv3cojmksmipp574xa3mc5nflflnt7jq.ipfs.nftstorage.link/",
+	"edition": 11,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "green"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "Superhero"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "mask"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "heroic"
+	  },
+	  {
+		"name": "Hat",
+		"type": "String", "value": "Captain's mask"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }

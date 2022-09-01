@@ -1,25 +1,30 @@
 {
 	"name": "Zombie-Santa-Claus",
 	"description": "Zombie-Santa-Claus is one zombie from the СØSMO ƵOMBIE collection.Give gifts to death. Wrapped as a gift and sent to Christmas dinner.",
-	"image": "ipfs://bafybeiap7zfzq7bsewil7ng54cke57bzltd2obbo3z7bm6sgzkg72uwpgy",
-	"edition": 1,
-	"symbol": "ZMBCOIN",  
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-Santa-Claus.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "Magic character" },      
-            { "trait_type": "Clother", "value": "Red santa claus costume" },      
-            { "trait_type": "Profession","value": "Santa-Claus" }
-        ]
-	},  
-}
+	"image": "https://bafybeiap7zfzq7bsewil7ng54cke57bzltd2obbo3z7bm6sgzkg72uwpgy.ipfs.nftstorage.link/",
+	"edition": 27,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "green"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "wizard"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "white"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "friendly"
+	  },
+	  {
+		"name": "Clothes",
+		"type": "String", "value": "santa claus costume"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }
+	

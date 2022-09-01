@@ -1,26 +1,31 @@
+
 {
+	
 	"name": "Zombie-Harley-Quinn",
 	"description": "Zombie-Harley-Quinn is one zombie from the СØSMO ƵOMBIE collection.Crazy in her head. Gracefully catches its prey.",
-	"image": "ipfs://bafkreieov76roo4q5bhunozdkdnoqxr2zv34xn2leu33db2a772uz35fzy",
-	"edition": 1,
-	"symbol": "ZMBCOIN",  
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-Harley-Quinn.png",
-				"type": "image/png" 
-			} 
-		], 
-		 "attributes": [
-            { "trait_type": "Base", "value": "Aggressive villain" },      
-            { "trait_type": "Clothes", "value": "short shorts, tights and t-shirt" },
-            { "trait_type": "Super abilities", "value": "baseball bat" },			
-            { "trait_type": "Profession","value": "The villain" }
-        ]
-	},  
-}
+	"image": "https://bafkreieov76roo4q5bhunozdkdnoqxr2zv34xn2leu33db2a772uz35fzy.ipfs.nftstorage.link/",
+	"edition": 44,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "dark blue"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "super villain"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "cheerful"
+	  },
+	  {
+		"name": "Clothes",
+		"type": "String", "value": "pigtails"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }

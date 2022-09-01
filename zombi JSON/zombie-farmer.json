@@ -1,25 +1,29 @@
 {
 	"name": "Zombie-farmer",
 	"description": "Zombie-farmer is one zombie from the СØSMO ƵOMBIE collection.Lives on a ranch. There he catches lost travelers.",
-	"image": "ipfs://bafkreigj7ythnzktgvr5b7jbaxu7uouhklejcd3uhzhmwanywrycabguei",
-	"edition": 1,
-	"symbol": "ZMBCOIN",  
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-farmer.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "Not very aggressive" },      
-            { "trait_type": "Clothes", "value": "denim jumpsuit, straw hat" },      
-            { "trait_type": "Profession","value": "Farmer" }
-        ]
-	},  
-}
+	"image": "https://bafkreigj7ythnzktgvr5b7jbaxu7uouhklejcd3uhzhmwanywrycabguei.ipfs.nftstorage.link/",
+	"edition": 20,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "green"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "farmer"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "Kind"
+	  },
+	  {
+		"name": "Hat",
+		"type": "String", "value": "farm hat"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }

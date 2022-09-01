@@ -1,25 +1,29 @@
 {
 	"name": "Zombie-Caesar",
 	"description": "Zombie-Caesar is one zombie from the СØSMO ƵOMBIE collection.Built a great army conquering the whole world.",
-	"image": "ipfs://bafkreiebno5z6lkpmrnhw577xlac7kfidwy7h4ia5e73nblrxfmbpifnfa",
-	"edition": 1,
-	"symbol": "ZMBCOIN", 
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-Caesar.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "Emperor" },      
-            { "trait_type": "Clothes", "value": "Pretext toga" },			
-            { "trait_type": "Profession","value": "Emperor" }
-        ]
-	}, 
-}
+	"image": "https://bafkreiebno5z6lkpmrnhw577xlac7kfidwy7h4ia5e73nblrxfmbpifnfa.ipfs.nftstorage.link/",
+	"edition": 10,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "gold"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "emperor"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "majestic"
+	  },
+	  {
+		"name": "Hat",
+		"type": "String", "value": "Wreath"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }

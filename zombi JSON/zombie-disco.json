@@ -1,25 +1,29 @@
 {
 	"name": "Zombie-disco",
 	"description": "Zombie-disco is one zombie from the СØSMO ƵOMBIE collection.Will dance you to death.",
-	"image": "ipfs://bafkreidkzgxqzunb63rhi5f37tkgcza666mqxkqbmkms4bsj7twdswx54i",
-	"edition": 1, 
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-disco.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "Dancer" },      
-            { "trait_type": "Clother", "value": "Disco costume" },      
-            { "trait_type": "Profession","value": "Dance teacher" }
-        ]
-
-	}, 
-}
+	"image": "https://bafkreidkzgxqzunb63rhi5f37tkgcza666mqxkqbmkms4bsj7twdswx54i.ipfs.nftstorage.link",
+	"edition": 16,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "green"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "dansir"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "steep"
+	  },
+	  {
+		"name": "Hat",
+		"type": "String", "value": "Afro"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }

@@ -1,26 +1,30 @@
 {
 	"name": "Zombie-cook",
 	"description": "Zombie-cook is one zombie from the СØSMO ƵOMBIE collection.Will cook you deliciously that you will lick your fingers",
-	"image": "ipfs://bafkreifizwefgcwfvwrq4xavcpy4b5sl6g3gf5tlzn4bdgd7s2veshyjhy",
-	"edition": 1,
-	"symbol": "ZMBCOIN",
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-cook.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "Master chef" },      
-            { "trait_type": "Clother", "value": "Toque" },
-            { "trait_type": "Super abilities", "value": "ax knife" },			
-            { "trait_type": "Profession","value": "Cook" }
-        ]
-	},  
-}
+	"image": "https://bafkreifizwefgcwfvwrq4xavcpy4b5sl6g3gf5tlzn4bdgd7s2veshyjhy.ipfs.nftstorage.link",
+	"edition": 15,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "violet"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "cook"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "hungry"
+	  },
+	  {
+		"name": "Hat",
+		"type": "String", "value": "cookery"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }
+

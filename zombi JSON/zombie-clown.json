@@ -1,25 +1,29 @@
 {
 	"name": "Zombie-clown",
 	"description": "Zombie-clown is one zombie from the СØSMO ƵOMBIE collection.Laugh you to death, and then eat.",
-	"image": "ipfs://bafkreiaiwbr4iwfy6gorshswgd6rewgbw3iayvjp5whl7otwpz7qjynw4m",
-	"edition": 1,
-	"symbol": "ZMBCOIN",  
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-clown.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "Scary clown" },      
-            { "trait_type": "Clother", "value": "clown costume with red nose" },      
-            { "trait_type": "Profession","value": "Clown" }
-        ]
-	},  
-}
+	"image": "https://bafkreiaiwbr4iwfy6gorshswgd6rewgbw3iayvjp5whl7otwpz7qjynw4m.ipfs.nftstorage.link/",
+	"edition": 14,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "brown"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "clown"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "evil"
+	  },
+	  {
+		"name": "Hat",
+		"type": "String", "value": "wig"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }

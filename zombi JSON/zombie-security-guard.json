@@ -1,25 +1,30 @@
 {
 	"name": "Zombie-security-guard",
 	"description": "Zombie-security-guard is one zombie from the СØSMO ƵOMBIE collection.You can’t run away from him, he will close him in the hangar and follow you.",
-	"image": "ipfs://bafkreiborgfvym6ew3hmu364qkbu6fvtisgzt5vbslptzzsyll2nr6z5bu",
-	"edition": 1,
-	"symbol": "ZMBCOIN",  
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-security-guard.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "Fighter" },      
-            { "trait_type": "Clother", "value": "burgundy security guard suit, mask" },      
-            { "trait_type": "Profession","value": "Security" }
-        ]
-	},  
-}
+	"image": "https://bafkreiborgfvym6ew3hmu364qkbu6fvtisgzt5vbslptzzsyll2nr6z5bu.ipfs.nftstorage.link/",
+	"edition": 31,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "blue"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "military"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "white"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "overweight"
+	  },
+	  {
+		"name": "Clothes",
+		"type": "String", "value": "burgundy suit"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }
+	

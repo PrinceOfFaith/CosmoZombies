@@ -1,26 +1,29 @@
 {
 	"name": "Zombie-Fairy",
 	"description": "Zombie-Fairy is one zombie from the СØSMO ƵOMBIE collection.May suddenly appear and take you to be eaten.",
-	"image": "ipfs://bafkreidg3obt4vdoq3ckk3bhcdkzj6vzh65xde7ognqjgnvxnb5h2r4jc4",
-	"edition": 1,
-	"symbol": "ZMBCOIN",  
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-Fairy.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "Aggressive magical creature" },      
-            { "trait_type": "Clothes", "value": "fairy volition dress" }, 
-            { "trait_type": "Super abilities", "value": "wings, magic wand" }, 			
-            { "trait_type": "Profession","value": "Fairy" }
-        ]
-	},  
-}
+	"image": "https://bafkreidg3obt4vdoq3ckk3bhcdkzj6vzh65xde7ognqjgnvxnb5h2r4jc4.ipfs.nftstorage.link/",
+	"edition": 19,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "light-blue"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "Fairy"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "smiling"
+	  },
+	  {
+		"name": "Hat",
+		"type": "String", "value": "tail"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }

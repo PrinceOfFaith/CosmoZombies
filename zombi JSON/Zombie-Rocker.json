@@ -1,28 +1,30 @@
 {
 	"name": "Zombie-Rocker",
 	"description": "Zombie-Rocker is one zombie from the СØSMO ƵOMBIE collection. A popular anarchist guitarist and just a cool zombie.",
-	"image": "ipfs://QmYMLyfPWzLWJnEGBYSnsAf8UzdoZ2rRh9UBVmrD89SDMt/1.png",
-	"edition": 1,
-	"symbol": "ZMBCOIN", 
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-Rocker.png",
-				"type": "image/png" 
-			} 
-		], 
+	"image": "https://QmYMLyfPWzLWJnEGBYSnsAf8UzdoZ2rRh9UBVmrD89SDMt.ipfs.nftstorage.link/",
+	"edition": 26,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "blue"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "artist"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "evil"
+	  },
+	  {
+		"name": "Clothes",
+		"type": "String", "value": "Leather Jacket"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }
 	
-        "attributes": [
-            { "trait_type": "Base", "value": "Fighter" },      
-            { "trait_type": "Hair", "value": "Iroquois" },      
-            { "trait_type": "Profession","value": "Rocker" }
-        ]
-
-	}
-	
-}

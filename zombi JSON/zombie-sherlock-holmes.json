@@ -1,25 +1,29 @@
 {
 	"name": "Zombie-Sherlock-Holmes",
 	"description": "Zombie-Sherlock-Holmes is one zombie from the СØSMO ƵOMBIE collection.his deductive methods allow you to calculate the victim in a couple of minutes. You won't stand a chance.",
-	"image": "ipfs://bafkreickyth337yweqhb5f4g6bnpwyiblojz4gftnbw6cx27aoavbays2q",
-	"edition": 1,
-	"symbol": "ZMBCOIN", 
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-Sherlock-Holmes.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "Detective" },      
-            { "trait_type": "Clothes", "value": "Deerstalker hat" },			
-            { "trait_type": "Profession","value": "Detective" }
-        ]
-	}, 
-}
+	"image": "https://bafkreickyth337yweqhb5f4g6bnpwyiblojz4gftnbw6cx27aoavbays2q.ipfs.nftstorage.link/",
+	"edition": 32,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "blue"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "detective"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "pensive"
+	  },
+	  {
+		"name": "Hat",
+		"type": "String", "value": "Deerstalker hat"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }

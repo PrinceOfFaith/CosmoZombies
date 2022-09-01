@@ -1,26 +1,30 @@
 {
+	
 	"name": "Zombie-Mexican",
 	"description": "Zombie-Mexican is one zombie from the СØSMO ƵOMBIE collection.Drink tequila with you and then eat your brains. ",
-	"image": "ipfs://bafkreieym3t4xmbh7mrlb4lder3qlgsbh5qjyscvhrvo6kw46ovbjarqle",
-	"edition": 1,
-	"symbol": "ZMBCOIN", 
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-Mexican.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "Tequila lover" },      
-            { "trait_type": "Clother", "value": "pancho, hat" },      
-            { "trait_type": "Profession","value": "Mexican" }
-        ]
-	}
-	},  
-}
+	"image": "https://bafkreieym3t4xmbh7mrlb4lder3qlgsbh5qjyscvhrvo6kw46ovbjarqle.ipfs.nftstorage.link/",
+	"edition": 54,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "gold"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "banditos"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "sullen"
+	  },
+	  {
+		"name": "Clothes",
+		"type": "String", "value": "sombrero"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }

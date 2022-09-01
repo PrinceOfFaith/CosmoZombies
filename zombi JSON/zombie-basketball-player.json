@@ -1,26 +1,29 @@
 {
 	"name": "Zombie-basketball-player",
 	"description": "Zombie-basketball-player is one zombie from the СØSMO ƵOMBIE collection.This zombie will throw the severed head away. Likes to play with his prey",
-	"image": "ipfs://bafkreibv7zo7oeveclcoajcfulmxk5oqvkkxzwlgc5bsax23ashkyecvve",
-	"edition": 1,
-	"symbol": "ZMBCOIN", 
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-basketball-player.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "Basketball-player" },      
-            { "trait_type": "Clother", "value": "basketball-jersey,basketball shorts" },      
-            { "trait_type": "Profession","value": "Sportsman" }
-        ]
-		
-	},  
-}
+	"image": "https://bafkreibv7zo7oeveclcoajcfulmxk5oqvkkxzwlgc5bsax23ashkyecvve.ipfs.nftstorage.link/",
+	"edition": 4,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "blue"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "Sportsman"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "serious"
+	  },
+	  {
+		"name": "Hat",
+		"type": "String", "value": "bald"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }

@@ -1,25 +1,30 @@
 {
+	
 	"name": "Zombie-knacker",
 	"description": "Zombie-Rocker is one zombie from the СØSMO ƵOMBIE collection.If you have money or jewelry will give you around the corner.",
-	"image": "ipfs://bafkreiffkw5tuqgbwkzzqjxbnmpzgypjjyihouoovznaf4kkxqaezcd57y",
-	"edition": 1,
-	"symbol": "ZMBCOIN",  
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-knacker.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "Fighter" },      
-            { "trait_type": "Clother", "value": "Old school tracksuit" },      
-            { "trait_type": "Profession","value": "Knacker" }
-        ]
-	}, 
-}
+	"image": "https://bafkreiffkw5tuqgbwkzzqjxbnmpzgypjjyihouoovznaf4kkxqaezcd57y.ipfs.nftstorage.link/",
+	"edition": 52,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "blue"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "bandit"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "serious"
+	  },
+	  {
+		"name": "Clothes",
+		"type": "String", "value": "cap"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }

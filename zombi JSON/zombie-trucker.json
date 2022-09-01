@@ -1,26 +1,30 @@
 {
 	"name": "Zombie-trucker",
-	"description": "",
-	"image": "ipfs://bafkreigkohtthg7t57i5rjdwnyahthnaa6tasr2v4jt4l2dqu77baffalm",
-	"edition": 1,
-	"symbol": "ZMBCOIN", 
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-trucker.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "Spidster" },      
-            { "trait_type": "Clother", "value": "Plaid vest, cap, jeans" },      
-            { "trait_type": "Profession","value": "Trucker" }
-        ]
-		
-	}, 
-}
+	"description": "Zombie-trucker is one zombie from the СØSMO ƵOMBIE collection.likes to hide in big cars. And crush people.",
+	"image": "https://bafkreigkohtthg7t57i5rjdwnyahthnaa6tasr2v4jt4l2dqu77baffalm.ipfs.nftstorage.link/",
+	"edition": 40,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "violet"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "trucker"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "white"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "friendly"
+	  },
+	  {
+		"name": "Clothes",
+		"type": "String", "value": "cage in a vest"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }
+	

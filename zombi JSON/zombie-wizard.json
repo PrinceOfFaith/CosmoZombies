@@ -1,27 +1,30 @@
 {
 	"name": "Zombie-wizard",
 	"description": "Zombie-wizard is one zombie from the СØSMO ƵOMBIE collection.Zombie-wizard lives in his tower. Punishes anyone who tries to get to him.",
-	"image": "ipfs://bafkreigmd5fv34idl6izj2gc4qvume2bjr5mctngxabmvfcz5xverft4ie",
-	"edition": 1,
-	"symbol": "ZMBCOIN",  
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-wizard.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "Magical" },      
-            { "trait_type": "Clother", "value": "Wizard robe" },   
-            { "trait_type": "Super abilities", "value": "Magic spells" },      			
-            { "trait_type": "Profession","value": "Wizard" }
-        ]
-
-	},  
-}
+	"image": "https://bafkreigmd5fv34idl6izj2gc4qvume2bjr5mctngxabmvfcz5xverft4ie.ipfs.nftstorage.link/",
+	"edition": 42,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "blue"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "wizard"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "friendly"
+	  },
+	  {
+		"name": "Clothes",
+		"type": "String", "value": "wizard's robe"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }
+	

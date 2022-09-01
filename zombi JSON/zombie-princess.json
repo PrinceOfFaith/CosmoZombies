@@ -1,25 +1,30 @@
 {
+	
 	"name": "Zombie-Princess",
 	"description": "Zombie-Princess is one zombie from the СØSMO ƵOMBIE collection.You will be put on your knees before her highness, and then taken to a dinner party. and eat you.",
-	"image": "ipfs://bafkreic3ckmcwgbfbqxlcm4rxqh4kmf5mssb7dxkkw7tqb6kt2pxeopho4",
-	"edition": 1,
-	"symbol": "ZMBCOIN",  
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-Princess.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "Princess" },      
-            { "trait_type": "Clother", "value": "Princess ball gown, crown" },      
-            { "trait_type": "Profession","value": "Princess" }
-        ]
-	}, 
-}
+	"image": "https://bafkreic3ckmcwgbfbqxlcm4rxqh4kmf5mssb7dxkkw7tqb6kt2pxeopho4.ipfs.nftstorage.link/",
+	"edition": 61,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "pink"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "Princess"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "sirius"
+	  },
+	  {
+		"name": "Clothes",
+		"type": "String", "value": "crown"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }

@@ -1,26 +1,30 @@
 {
 	"name": "Zombie-boxer",
 	"description": "Zombie-boxer is one zombie from the СØSMO ƵOMBIE collection.This zombie will beat you up like a chop,before eating you.",
-	"image": "ipfs://bafkreiekclhpywxjotyt3eililtdnlxf3uennln7qwcse7vv4r46rerukm",
-	"edition": 1,
-	"symbol": "ZMBCOIN",  
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-boxer.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "Boxer" },      
-            { "trait_type": "Clother", "value": "Red-T-shirt,Short,boxing-gloves" },      
-            { "trait_type": "Profession","value": "Sportsman" }
-			
-		]
-	}, 
-}
+	"image": "https://bafkreiekclhpywxjotyt3eililtdnlxf3uennln7qwcse7vv4r46rerukm.ipfs.nftstorage.link/",
+	"edition": 7,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "blue"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "Sportsman"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "rude"
+	  },
+	  {
+		"name": "Hat",
+		"type": "String", "value": "boxing helmet"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }
+

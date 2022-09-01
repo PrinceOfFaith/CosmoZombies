@@ -1,25 +1,30 @@
 {
+	
 	"name": "Zombie-policeman",
 	"description": "Zombie-policeman is one zombie from the СØSMO ƵOMBIE collection.Armed and especially dangerous",
-	"image": "ipfs://bafkreihbhrhljagv4uvk3kysvfqiuiybhkmgcj2uhwuduqbykmwkagt4fi",
-	"edition": 1,
-	"symbol": "ZMBCOIN",  
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-policeman.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "law enforcement officer" },      
-            { "trait_type": "Clother", "value": "police uniform" },      
-            { "trait_type": "Profession","value": "Police officer" }
-        ]
-	}, 
-}
+	"image": "https://bafkreihbhrhljagv4uvk3kysvfqiuiybhkmgcj2uhwuduqbykmwkagt4fi.ipfs.nftstorage.link/",
+	"edition": 60,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "blue"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "policeman"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "sirius"
+	  },
+	  {
+		"name": "Clothes",
+		"type": "String", "value": "cap"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }

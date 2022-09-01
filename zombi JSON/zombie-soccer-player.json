@@ -1,25 +1,30 @@
 {
 	"name": "Zombie-soccer-player",
 	"description": "Zombie-soccer-player is one zombie from the СØSMO ƵOMBIE collection.Strong legs make mega fast for prey. People's heads are like balls to him.",
-	"image": "ipfs://bafkreihc7pywq5bditrmzp4kf5sgfxh4a3vejdfd2qlcppjxsetunjxtni",
-	"edition": 1,
-	"symbol": "ZMBCOIN",  
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-soccer-player.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "Aggressive player" },      
-            { "trait_type": "Clothes", "value": "football uniform, boots" },      
-            { "trait_type": "Profession","value": "Sportsman" }
-        ]
-	}, 
-}
+	"image": "https://bafkreihc7pywq5bditrmzp4kf5sgfxh4a3vejdfd2qlcppjxsetunjxtni.ipfs.nftstorage.link/",
+	"edition": 33,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "green"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "spotsman"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "white"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "importunate"
+	  },
+	  {
+		"name": "Clothes",
+		"type": "String", "value": "soccer uniform"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }
+	

@@ -1,26 +1,30 @@
 {
+	
 	"name": "Zombie-Holy-father",
 	"description": "Zombie-Holy-father is one zombie from the СØSMO ƵOMBIE collection.Sanctify you, your brain, and then eat you.",
-	"image": "ipfs://bafkreifpwftl3eapuzrhqmyfv3b3urxlxyw72o6nfjnaxxtzgvbkfe2bie",
-	"edition": 1,
-	"symbol": "ZMBCOIN", 
-	"seller_fee_basis_points": 500, 
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-Holy-father.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "Holy Fighter" },      
-            { "trait_type": "Clother", "value": "Robe of the holy father" },      
-            { "trait_type": "Profession","value": "Holy-father" }
-        ]
-	},  
-}
+	"image": "https://bafkreifpwftl3eapuzrhqmyfv3b3urxlxyw72o6nfjnaxxtzgvbkfe2bie.ipfs.nftstorage.link/",
+	"edition": 47,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "gold"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "priest"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "humble"
+	  },
+	  {
+		"name": "Clothes",
+		"type": "String", "value": "bald"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }

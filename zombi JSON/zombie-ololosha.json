@@ -1,25 +1,30 @@
 {
+	
 	"name": "Zombie-ololosha",
 	"description": "Zombie-ololosha is one zombie from the СØSMO ƵOMBIE collection.You don't even think that he can eat you.",
-	"image": "ipfs://bafkreihc56gmpupzztbqme5337z7yi6sg2f46pyjvwojlhtsssuxzmnggy",
-	"edition": 1,
-	"symbol": "ZMBCOIN",  
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-ololosha.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "boy down" },      
-            { "trait_type": "Clother", "value": "children's shorts, propeller cap, suspenders" },      
-            { "trait_type": "Profession","value": "Overgrown child" }
-        ]
-	}, 
-}
+	"image": "https://bafkreihc56gmpupzztbqme5337z7yi6sg2f46pyjvwojlhtsssuxzmnggy.ipfs.nftstorage.link/",
+	"edition": 58,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "green"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "schoolboy"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "funny"
+	  },
+	  {
+		"name": "Clothes",
+		"type": "String", "value": "cap"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }

@@ -1,26 +1,29 @@
 {
 	"name": "Zombie-Batman",
 	"description": "Zombie-Batman is one zombie from the СØSMO ƵOMBIE collection.This zombie will find you in the night. Only chases the bad guys.",
-	"image": "ipfs://bafkreiac5iuh2cd35m7hu4ytqnzf6lsad3gyyu56qlbitaevc5ieshsvye",
-	"edition": 1,
-	"symbol": "ZMBCOIN",  
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-Batman.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "Billionaire" },      
-            { "trait_type": "Clother", "value": "super-bat-suit" },      
-            { "trait_type": "Profession","value": "Superhero" }
-        ]
-		
-	},  
-}
+	"image": "https://bafkreiac5iuh2cd35m7hu4ytqnzf6lsad3gyyu56qlbitaevc5ieshsvye.ipfs.nftstorage.link/",
+	"edition": 5,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "Superhero"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "brutal"
+	  },
+	  {
+		"name": "Hat",
+		"type": "String", "value": "Horns"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }

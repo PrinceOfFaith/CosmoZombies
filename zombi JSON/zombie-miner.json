@@ -1,25 +1,30 @@
 {
+	
 	"name": "Zombie-miner",
 	"description": "Zombie-miner is one zombie from the СØSMO ƵOMBIE collection.lives in underground mines. There he digs his ambushes. If you get caught, you can't get out.",
-	"image": "ipfs://bafybeic4b2ouc56ma2wb36qtzjvvsxwtjie77xvbohgdl7b55dbzxv5uxe",
-	"edition": 1,
-	"symbol": "ZMBCOIN",  
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-miner.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "Miner" },      
-            { "trait_type": "Clothes", "value": "blue overalls, helmet with a flashlight" },		
-            { "trait_type": "Profession","value": "Miner" }
-        ]
-	},  
-}
+	"image": "https://bafybeic4b2ouc56ma2wb36qtzjvvsxwtjie77xvbohgdl7b55dbzxv5uxe.ipfs.nftstorage.link/",
+	"edition": 55,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "purple"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "miner"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "yellow"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "sullen"
+	  },
+	  {
+		"name": "Clothes",
+		"type": "String", "value": "helmet"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }

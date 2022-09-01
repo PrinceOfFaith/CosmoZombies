@@ -1,25 +1,30 @@
 {
 	"name": "Zombie-tennis-player",
 	"description": "Zombie-tennis-player is one zombie from the СØSMO ƵOMBIE collection.This is a cool tennis player who won all the world's zombie tournaments.",
-	"image": "ipfs://bafkreih3eeqyvy6knklg7vkuxpol3bmpz3e6o6cdvdy3uvsiwidd4wgr6y",
-	"edition": 1,
-	"symbol": "ZMBCOIN",  
-	"external_url": "", 
-	"collection": { 
-		"name": "СØSMO ƵOMBIE", 
-		"family": "" 
-	}, 
-	"properties": {
-		"files": [ 
-			{ 
-				"uri": "Zombie-tennis-player.png",
-				"type": "image/png" 
-			} 
-		], 
-		"attributes": [
-            { "trait_type": "Base", "value": "Bad guy" },      
-            { "trait_type": "Clother", "value": "striped prisoner uniform" },      
-            { "trait_type": "Profession","value": "Killer" }
-        ]
-	},  
-}
+	"image": "https://bafkreih3eeqyvy6knklg7vkuxpol3bmpz3e6o6cdvdy3uvsiwidd4wgr6y.ipfs.nftstorage.link/",
+	"edition": 37,
+	"properties": [
+	  {
+		"name": "Background",
+		"type": "String", "value": "dark blue"
+	  },
+	  {
+		"name": "profession",
+		"type": "String", "value": "spotsman"
+	  },
+	  {
+		"name": "Eye",
+		"type": "String", "value": "white"
+	  },
+	  {
+		"name": "Face",
+		"type": "String", "value": "aggressive"
+	  },
+	  {
+		"name": "Clothes",
+		"type": "String", "value": "tennis player costume"
+	  }
+	],
+	"compiler": "СØSMO ƵOMBIE"
+  }
+	
